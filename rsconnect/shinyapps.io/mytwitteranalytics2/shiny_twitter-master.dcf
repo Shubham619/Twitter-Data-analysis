@@ -1,0 +1,10 @@
+name: shiny_twitter-master
+title: shiny_twitter-master
+account: mytwitteranalytics2
+server: shinyapps.io
+appId: 187761
+bundleId: 860755
+url: https://mytwitteranalytics2.shinyapps.io/shiny_twitter-master/
+when: 1497057923.30887
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,10 @@
+name: test3
+title: test3
+account: mytwitteranalytics
+server: shinyapps.io
+appId: 187772
+bundleId: 860779
+url: https://mytwitteranalytics.shinyapps.io/test3/
+when: 1497059663.97467
+asMultiple: FALSE
+asStatic: FALSE
